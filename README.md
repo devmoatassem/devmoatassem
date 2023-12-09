@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MOATASSEM
 - 👀 I’m interested in AI, Machine learning and cybersecurity.
-- 🌱 I’m currently learning python data structures and also doing BE-Electrical Engineering
+- 🌱 I’m currently learning Node-js.
 - 💞️ I’m looking to collaborate on topics related to spread of modern technologies and helping my people realize the importance of modern technologies in our daily chores. 
 - 📫 How to reach me ...
 - Website: https://www.moatassam.com
