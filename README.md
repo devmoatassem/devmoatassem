@@ -1,7 +1,7 @@
 <!-- [![MasterHead](./cover.jpg)](https://moatassam.com/) -->
 <h1 align="center">Hi 👋, I'm Moatassem</h1>
 <h3 align="center">Full Stack Web developer, MERN, Flask, Python, C</h3>
-<img align="right" alt="Coding" width="400" src="./main.jpg">
+<img align="right" alt="Coding" width="400" src="./main.png">
 
 - 🔭 I’m currently working on [IlmBytes.](https://github.com/devmoatassem/personal-blog)
 
