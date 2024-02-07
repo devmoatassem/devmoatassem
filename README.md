@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://moatassam.com/](https://moatassam.com/)
 
-- 📝 I regularly write articles on [https://moatassam.com/blog](https://moatassam.com/blog)
+<!-- - 📝 I regularly write articles on [https://moatassam.com/blog](https://moatassam.com/blog) -->
 
 - 💬 Ask me about **Python, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, SQL,Flask, C, Latex, HTML, CSS, Tailwind, Bootstrap, Git & GitHub**
 
-- 📫 Reach me at **moatassemsindhu@gmail.com**
+<!-- - 📫 Reach me at **moatassemsindhu@gmail.com** 
 
-- ⚡ Fun fact **I am friendly introvert.**
+- ⚡ Fun fact **I am friendly introvert.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
