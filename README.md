@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Advanced NodeJs, NextJs, Material UI, Django**
 
-<!-- - 👨‍💻 All of my projects are available at [https://moatassam.com/](https://moatassam.com/)
+ - 👨‍💻 All of my projects are available at [https://moatassam.com/](https://moatassam.com/)
 
- - 📝 I regularly write articles on [https://moatassam.com/blog](https://moatassam.com/blog) -->
+<!-- - 📝 I regularly write articles on [https://moatassam.com/blog](https://moatassam.com/blog) -->
 
 - 💬 Ask me about **Python, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, SQL,Flask, C, Latex, HTML, CSS, Tailwind, Bootstrap, Git & GitHub**
 
