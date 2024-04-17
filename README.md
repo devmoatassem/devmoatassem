@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Course AI.](https://app.courseai.com/)
 
-- 🌱 I’m currently learning **Advanced NodeJs, NextJs, Material UI, Django**
+- 🌱 I’m currently learning **NestJs, Django**
 
  - 👨‍💻 All of my projects are available at [https://moatassam.com/](https://moatassam.com/)
 
