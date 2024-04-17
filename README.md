@@ -11,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [https://moatassam.com/blog](https://moatassam.com/blog) -->
 
-- 💬 Ask me about **Python, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, SQL,Flask, C, Latex, HTML, CSS, Tailwind, Bootstrap, Git & GitHub**
+- 💬 Ask me about **Python, JavaScript, TypeScript, NextJs, ReactJs, NodeJs, ExpressJs, MongoDB, SQL,Flask, C, Latex, HTML, CSS, Tailwind, Bootstrap, Git & GitHub**
 
 <!-- - 📫 Reach me at **moatassemsindhu@gmail.com** 
 
