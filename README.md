@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Web developer, MERN, Flask, Python, C</h3>
 <img align="right" alt="Coding" width="400" src="./main.png">
 
-- 🔭 I’m currently working on [CourseAI.](https://courseai.com/)
+- 🔭 I’m currently working on [https://www.double.finance/](https://www.double.finance/)
 
 - 🌱 I’m currently learning **NestJs, Django**
 
