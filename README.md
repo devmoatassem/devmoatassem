@@ -3,9 +3,9 @@
 <h3 align="center">Full Stack Web developer, MERN, Next.js, Nest.js, Flask, Python, C</h3>
 <img align="right" alt="Coding" width="400" src="./main.png">
 
-- 🔭 I’m currently working on [https://www.double.finance/](https://www.double.finance/)
+ <!-- - 🔭 I’m currently working on [https://www.double.finance/](https://www.double.finance/) -->
 
-- 🌱 I’m currently learning **NestJs, Django**
+ <!-- - 🌱 I’m currently learning **NestJs, Django**-->
 
  <!-- - 👨‍💻 All of my projects are available at [https://moatassam.com/](https://moatassam.com/) -->
 
