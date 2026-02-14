@@ -1,6 +1,6 @@
 <!-- [![MasterHead](./cover.jpg)](https://moatassam.com/) -->
 <h1 align="center">Hi 👋, I'm Moatassem</h1>
-<h3 align="center">Full Stack Web developer, MERN, Next.js, Nest.js, Flask, Python, C</h3>
+<h3 align="center">Full Stack Web developer, MERN, Next.js, Nest.js, Python</h3>
 <img align="right" alt="Coding" width="400" src="./main.png">
 
  <!-- - 🔭 I’m currently working on [https://www.double.finance/](https://www.double.finance/) -->
@@ -11,7 +11,7 @@
 
 <!-- - 📝 I regularly write articles on [https://moatassam.com/blog](https://moatassam.com/blog) -->
 
-- 💬 Ask me about **Python, JavaScript, TypeScript, NextJs, ReactJs, NodeJs, ExpressJs, MongoDB, SQL,Flask, C, Latex, HTML, CSS, Tailwind, Bootstrap, Git & GitHub**
+- 💬 Ask me about **Python, JavaScript, TypeScript, NextJs, ReactJs, NestJs, ExpressJs, MongoDB, SQL,Flask, C, Latex, HTML, CSS, Tailwind, Bootstrap, Git & GitHub**
 
 <!-- - 📫 Reach me at **moatassemsindhu@gmail.com** 
 
