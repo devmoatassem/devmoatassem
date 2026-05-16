@@ -32,3 +32,10 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devmoatassem&" alt="devmoatassem" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmoatassem&show_icons=true&locale=en&layout=compact" alt="devmoatassem" /></p>
+
+---
+
+[![CodeTime Trend](https://codetime.dev/api/widgets/trend.svg?uid=2&days=90&theme=dark&)](https://codetime.dev)
+
+---
+
